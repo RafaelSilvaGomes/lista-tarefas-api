@@ -21,7 +21,7 @@ A arquitetura do projeto é baseada no padrão cliente-servidor, onde o backend 
 -   **Frontend Desktop (Repositório Separado):**
     -   Aplicação desktop nativa construída com **JavaFX**.
     -   Também consome a mesma API REST, demonstrando a versatilidade de uma arquitetura desacoplada.
-    -   [Link para o Repositório Desktop](https://github.com/SeuUsuario/lista-tarefas-desktop)
+    -   [Link para o Repositório Desktop](https://github.com/RafaelSilvaGomes/lista-tarefas-desktop)
 
 ### Tecnologias Utilizadas
 
