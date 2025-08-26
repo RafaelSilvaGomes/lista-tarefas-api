@@ -16,7 +16,7 @@ A arquitetura do projeto é baseada no padrão cliente-servidor, onde o backend 
 -   **Frontend Web (Repositório Separado):**
     -   Aplicação de página única (SPA) construída com **Angular**.
     -   Consome a API REST deste projeto para exibir e manipular as tarefas.
-    -   [Link para o Repositório Web](https://github.com/SeuUsuario/lista-tarefas-web)
+    -   [Link para o Repositório Web](https://github.com/RafaelSilvaGomes/lista-tarefas-web)
 
 -   **Frontend Desktop (Repositório Separado):**
     -   Aplicação desktop nativa construída com **JavaFX**.
