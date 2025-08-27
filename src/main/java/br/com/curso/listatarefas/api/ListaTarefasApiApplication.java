@@ -1,4 +1,4 @@
-package br.com.curso.lista_tarefas.api;
+package br.com.curso.listatarefas.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

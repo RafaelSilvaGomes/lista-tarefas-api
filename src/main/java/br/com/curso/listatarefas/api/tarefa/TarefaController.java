@@ -1,4 +1,4 @@
-package br.com.curso.lista-tarefas.api.tarefa;
+package br.com.curso.listatarefas.api.tarefa;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

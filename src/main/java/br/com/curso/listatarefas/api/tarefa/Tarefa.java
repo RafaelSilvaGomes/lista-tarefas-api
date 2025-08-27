@@ -1,4 +1,4 @@
-package br.com.curso.lista-tarefas.api.tarefa;
+package br.com.curso.listatarefas.api.tarefa;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
