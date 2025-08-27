@@ -32,10 +32,10 @@ O projeto é dividido em três repositórios independentes que se comunicam via 
 1.  **Pré-requisitos:** Ter o JDK 21 instalado.
 2.  Clone este repositório: `git clone https://github.com/RafaelSilvaGomes/lista-tarefas-api.git`
 3.  Abra o projeto em sua IDE (VS Code, IntelliJ, etc.).
-    3.1.  Caso esteja no VS Code instale a extensão 'Spring Boot Dashboard'
-    3.2.  Clique no icone da extensão e execute 'lista-tarefa-api'
 4.  Execute a classe principal `ListaTarefasApiApplication.java`.
-5.  A API estará rodando em `http://localhost:8080`.
+5.  Caso esteja no VS Code instale a extensão 'Spring Boot Dashboard'
+6.  Clique no icone da extensão e execute 'lista-tarefa-api'
+7.  A API estará rodando em `http://localhost:8080`.
 
 ### Endpoints da API
 
